@@ -1,0 +1,16 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*_[Bb]uilt[Dd]ata.uasset
+*[Hh][Ll][Oo][Dd].uasset
+.svn
